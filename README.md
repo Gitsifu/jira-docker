@@ -21,9 +21,14 @@ java -jar atlassian-agent.jar -d -m xxx@qq.com -n jira-software -p jira -o http:
 ```
 
 -----
-### 注意
+## 注意
 
 目前Docker Hub上的 `cptactionhank/atlassian-jira-software` 镜像的版本 `jira-software` 为 `8.16.1` ，
 若想升级版本，请自行构建 [Dockerfile](https://github.com/Gitsifu/docker-atlassian-jira-software/blob/master/Dockerfile) 文件。
 
 仓库地址：[Gitsifu/docker-atlassian-jira-software](https://github.com/Gitsifu/docker-atlassian-jira-software)
+
+## 申明
+
+- 本项目只做个人学习研究之用，不得用于商业用途！
+- 商业使用请向 [Atlassian](https://www.atlassian.com/) 购买正版，谢谢合作！
