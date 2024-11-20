@@ -29,6 +29,7 @@ java -jar atlassian-agent.jar -d -m xxx@qq.com -n jira-software -p jira -o http:
 若想升级版本，请自行构建 [Dockerfile](https://github.com/Gitsifu/docker-atlassian-jira-software/blob/master/Dockerfile) 文件。
 
 - 仓库地址：[Gitsifu/docker-atlassian-jira-software](https://github.com/Gitsifu/docker-atlassian-jira-software)
+- JIRA官网下载地址：[JIRA software download archives](https://www.atlassian.com/zh/software/jira/download-archives)
 
 ## 申明
 
